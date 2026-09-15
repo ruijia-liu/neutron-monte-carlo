@@ -1,0 +1,17 @@
+{
+  "status": "passed",
+  "seed": 20260915,
+  "source_sha256": "b3d0e3b07f58844949f05be57eb8438267850edcbde4cc32c35d8eb3ac59f972",
+  "elapsed_seconds": 28.09,
+  "python": "3.12.14",
+  "code_cells": 39,
+  "versions": {
+    "numpy": "2.5.3",
+    "pandas": "3.0.5",
+    "matplotlib": "3.11.2",
+    "scikit-learn": "1.9.1",
+    "nbclient": "0.11.0",
+    "nbformat": "5.11.1",
+    "ipykernel": "7.3.0"
+  }
+}

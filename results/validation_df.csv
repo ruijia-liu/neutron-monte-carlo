@@ -1,0 +1,4 @@
+material,Woodcock A,Single 10 cm A,ΔA,within 2 combined SE A,Woodcock R,Single 10 cm R,ΔR,within 2 combined SE R,Woodcock T,Single 10 cm T,ΔT,within 2 combined SE T
+Water,0.202 ± 0.004,0.199 ± 0.002,0.003,True,0.795 ± 0.004,0.798 ± 0.002,-0.003,True,0.003 ± 0.001,0.003 ± 0.001,0.000,True
+Lead,0.100 ± 0.003,0.100 ± 0.003,-0.000,True,0.618 ± 0.006,0.619 ± 0.004,-0.001,True,0.282 ± 0.006,0.281 ± 0.003,0.001,True
+Graphite,0.008 ± 0.001,0.008 ± 0.001,-0.000,True,0.685 ± 0.003,0.685 ± 0.004,-0.000,True,0.307 ± 0.003,0.307 ± 0.004,0.000,True

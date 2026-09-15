@@ -1,0 +1,7 @@
+mode,model,mae,max_error,count
+endpoint extrapolation,pair_linear_interpolation_endpoint_clamp,0.13945833333333332,0.26044444444444437,8
+endpoint extrapolation,random_forest,0.142453600694444,0.2558299999999992,8
+endpoint extrapolation,training_mean,0.27444999999999997,0.38346666666666673,8
+interior interpolation,pair_linear_interpolation_endpoint_clamp,0.026014583333333324,0.07588888888888884,16
+interior interpolation,random_forest,0.08971437905092589,0.25732499999999936,16
+interior interpolation,training_mean,0.09017500000000003,0.16661666666666672,16
